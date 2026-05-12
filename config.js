@@ -1,5 +1,5 @@
 module.exports = {
-  token: "MTUwMjcwOTgwOTUwMDEzMTQ3OA.GALTlm.xvSDzs085Z_LDZHlCI8bVG5_tOgP7SUwBpRqyA",
+  token: "YOUR_BOT_TOKEN",
   prefix: "$",
 
   lavalink: {
