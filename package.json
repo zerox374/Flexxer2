@@ -1,0 +1,17 @@
+{
+  "name": "lunexa-style-bot",
+  "version": "1.0.0",
+  "description": "Discord Music Bot with Voice Moderation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "erela.js": "^2.4.0",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
