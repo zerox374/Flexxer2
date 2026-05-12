@@ -1,5 +1,5 @@
 module.exports = {
-  token: "YOUR_BOT_TOKEN",
+  token: process.env.TOKEN,
   prefix: "$",
 
   lavalink: {
